@@ -1,9 +1,0 @@
-Casa Dos Raíces, opción 3: Dos raíces
-
-Todos los SVG son vectores puros: las letras ya van convertidas a trazos.
-
-Fuentes (licencia libre OFL, Google Fonts):
-- IM Fell Double Pica: Títulos y logo
-- Spectral: Textos largos
-
-La plantilla de acrílico va en espejo porque marca al presionar. Su diámetro de 100 mm está por confirmar con la imprenta.

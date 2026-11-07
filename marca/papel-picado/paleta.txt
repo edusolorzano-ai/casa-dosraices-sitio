@@ -1,0 +1,6 @@
+Negro	#15110F	Trazo y letras
+Papel	#F6EFE2	Fondo
+Cempasúchil	#E8861E	Color de temporada
+Grana	#B3202F	Color de temporada
+
+Fuentes: Fraunces (títulos y cursiva, la más cercana a la del logo) e Instrument Sans (textos). Ambas con licencia libre SIL OFL.

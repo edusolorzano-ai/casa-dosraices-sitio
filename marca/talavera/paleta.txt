@@ -1,0 +1,5 @@
+Crema de loza	#F2ECE1	Fondo
+Azul profundo	#14275F	Letras y trazo oscuro
+Azul cobalto	#2F5FB0	Pincelada del marco
+
+Fuentes: Fraunces (títulos y cursiva, la más cercana a la del logo) e Instrument Sans (textos). Ambas con licencia libre SIL OFL.

@@ -1,5 +1,0 @@
-Olivo profundo	#252C15	Fondo principal
-Olivo	#5B6A2E	Campos de color
-Trigo	#DDB95F	Botones y detalles
-Hueso	#EFE8D2	Texto
-Corteza	#6B4A26	Sellos y grabados
