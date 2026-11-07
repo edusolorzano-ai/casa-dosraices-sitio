@@ -1,0 +1,3 @@
+Crema de loza	#ECE3DA	Fondo
+Azul profundo	#0A2668	Letras y trazo oscuro
+Azul cobalto	#315393	Detalles del marco

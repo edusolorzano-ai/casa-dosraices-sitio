@@ -1,0 +1,3 @@
+Negro	#040404	Fondo
+Blanco	#FAFAFA	Letras
+Oro	#D2983F	Sello, cuando haga falta

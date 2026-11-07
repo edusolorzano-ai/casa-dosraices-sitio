@@ -1,5 +1,5 @@
-Vino	#4A0E1C	Fondo principal, cajas y bolsas
-Crema	#EFE4D3	Letras sobre vino y papel
-Oro	#B08D4F	Sello y detalles
-Mostaza	#D69E2E	Acento mediterráneo
-Ladrillo	#A8482E	Acento mediterráneo
+Vino	#5C0B20	Fondo principal, cajas y bolsas
+Crema	#EBE1DE	Letras sobre vino y papel
+Oro	#D2983F	Sello y detalles
+Rojo	#94030A	Segundo fondo, temporada
+Rosa	#D798A1	Tarjeta de croissant y fondos claros

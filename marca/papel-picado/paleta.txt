@@ -1,6 +1,6 @@
-Negro	#15110F	Trazo y letras
-Papel	#F6EFE2	Fondo
-Cempasúchil	#E8861E	Color de temporada
-Grana	#B3202F	Color de temporada
+Negro	#0A0A0A	Trazo y letras
+Papel	#FDFDFD	Fondo
+Rojo	#94030A	Color de temporada
+Oro	#D2983F	Color de temporada
 
-Fuentes: Fraunces (títulos y cursiva, la más cercana a la del logo) e Instrument Sans (textos). Ambas con licencia libre SIL OFL.
+Fuentes: Abril Fatface (títulos), Playball (frases) y Work Sans (textos). Las tres con licencia libre SIL OFL. Las letras del logo no cambian.

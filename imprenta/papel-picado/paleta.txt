@@ -1,0 +1,4 @@
+Negro	#0A0A0A	Trazo y letras
+Papel	#FDFDFD	Fondo
+Rojo	#94030A	Color de temporada
+Oro	#D2983F	Color de temporada

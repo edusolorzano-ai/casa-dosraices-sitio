@@ -1,7 +1,7 @@
-Vino	#4A0E1C	Fondo principal, cajas y bolsas
-Crema	#EFE4D3	Letras sobre vino y papel
-Oro	#B08D4F	Sello y detalles
-Mostaza	#D69E2E	Acento mediterráneo
-Ladrillo	#A8482E	Acento mediterráneo
+Vino	#5C0B20	Fondo principal, cajas y bolsas
+Crema	#EBE1DE	Letras sobre vino y papel
+Oro	#D2983F	Sello y detalles
+Rojo	#94030A	Segundo fondo, temporada
+Rosa	#D798A1	Tarjeta de croissant y fondos claros
 
-Fuentes: Fraunces (títulos y cursiva, la más cercana a la del logo) e Instrument Sans (textos). Ambas con licencia libre SIL OFL.
+Fuentes: Gloock (títulos), Allura (frases) y Instrument Sans (textos). Las tres con licencia libre SIL OFL. Las letras del logo no cambian.

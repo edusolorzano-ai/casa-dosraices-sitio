@@ -19,7 +19,7 @@
 | `bolsa-una-tinta` | Bolsa café, a una tinta | 120 × 160 mm | no lleva | Directo sobre la bolsa, sin rebase |
 | `plantilla-acrilico` | Plantilla del sello en acrílico | 100 × 100 mm | no lleva | Corte láser. 14 puentes de 1.1 mm sostienen los huecos de las letras |
 
-Además: `zona-segura-instagram.svg` para la foto de perfil.
+Además: `zona-segura-instagram.svg` para la foto de perfil, `caja.svg` como idea de caja y `post-instagram.svg`.
 
 ## Cómo está armado cada archivo
 - El documento mide el corte más el rebase por lado; el fondo llena todo el documento.
@@ -31,7 +31,7 @@ Además: `zona-segura-instagram.svg` para la foto de perfil.
 
 ## Antes de imprimir
 1. **Color:** los PDF van en RGB, con los códigos de `paleta.txt`. Pide a la imprenta la conversión a CMYK o Pantone y una prueba de color.
-2. **Contacto:** «Contacto por confirmar» es un marcador en las vueltas. Se cambia cuando Jorge y Eduardo confirmen el dato (PV-03 y PV-13).
+2. **Contacto:** las vueltas llevan «WhatsApp 443 360 2049», tomado de su Instagram. Confírmalo antes de imprimir (PV-03 y PV-13).
 3. **QR:** lleva a `https://casa-dosraices.com`. Escanea una prueba impresa al tamaño final.
 4. **Mariposa:** forma, doblez y grapa son una interpretación de lo que pidieron en la junta; confírmalos sobre una bolsa real.
 5. **Acrílico:** los trazos finos del logo se engrosaron poco para que se puedan cortar; confirma diámetro y grosor mínimo con quien lo corte, sobre una concha real.
