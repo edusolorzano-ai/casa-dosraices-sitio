@@ -1,0 +1,5 @@
+Mostaza	#E6A82E	Fondo principal
+Azafrán	#F6C64F	Luz y detalles
+Ladrillo	#8F2F16	Logo y botones
+Terracota	#D2703A	Campos de color
+Cacao	#2E130A	Texto

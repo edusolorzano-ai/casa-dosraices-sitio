@@ -1,0 +1,5 @@
+Tinta	#111416	Fondo principal
+Acero	#B9BFC2	Campos de color
+Acero oscuro	#3A4044	Superficies
+Brasa	#FF5A1F	Botones y calor
+Ceniza	#E7E9EA	Texto

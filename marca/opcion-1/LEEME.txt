@@ -1,0 +1,9 @@
+Casa Dos Raíces, opción 1: Mediterránea
+
+Todos los SVG son vectores puros: las letras ya van convertidas a trazos.
+
+Fuentes (licencia libre OFL, Google Fonts):
+- Caprasimo: Títulos y logo
+- Instrument Sans: Textos largos
+
+La plantilla de acrílico va en espejo porque marca al presionar. Su diámetro de 100 mm está por confirmar con la imprenta.

@@ -1,0 +1,5 @@
+Harina	#F5F3EE	Fondo principal
+Tinta	#171513	Texto y logo
+Corteza	#7E4218	Botones y detalles
+Miga	#E7DFCF	Campos de color
+Humo	#5F5B54	Notas
