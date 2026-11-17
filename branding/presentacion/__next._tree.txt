@@ -1,8 +1,8 @@
 :HL["/_next/static/chunks/1-p58d3iln4iv.css","style"]
 :HC["/",""]
-:HL["/_next/static/chunks/1evo4_hh3ro0d.css","style"]
+:HL["/_next/static/chunks/1mfyvqh0mvp2g.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&display=swap","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"presentacion","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"branding","h":96,"c":"$Q2"}]]
-0:{"b":"ebUbDleqzTciAT6JMnAhs","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"p5ULjvTPP4hQKBTUcCbA6","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
