@@ -1,0 +1,403 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/3qfy96eoyh-ek.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+11:"ViewportBoundary"
+12:I[97367,["$2"],"$11"]
+13:"MetadataBoundary"
+14:I[97367,["$2"],"$13"]
+15:"$Sreact.suspense"
+16:I[27201,["$2"],"IconMark"]
+:HL["/_next/static/chunks/1-p58d3iln4iv.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&display=swap","style"]
+6:X
+9:X
+9:C
+d:Tc0f5,
+<header style="position: sticky; top: 0; z-index: 10; background: #620901; color: #EDE8DF; padding: 10px clamp(16px, 4vw, 56px); display: flex; flex-wrap: wrap; gap: 8px 24px; align-items: center; justify-content: space-between">
+<div style="font: 600 14px 'DM Sans', sans-serif; letter-spacing: .04em"><a href="/branding/" style="color: inherit">Casa Dos Raíces · Branding</a> · Propuesta 3 de 4 · Rojo de mesa · paleta por elegir</div>
+<nav aria-label="Secciones del manual" style="display: flex; flex-wrap: nowrap; gap: 4px; overflow-x: auto; max-width: 100%">
+<a href="#logo" style="min-height: 44px; display: inline-flex; align-items: center; padding: 0 12px; white-space: nowrap; font: 600 14px 'DM Sans', sans-serif; color: #EDE8DF; text-decoration: none">Logo</a>
+<a href="#color" style="min-height: 44px; display: inline-flex; align-items: center; padding: 0 12px; white-space: nowrap; font: 600 14px 'DM Sans', sans-serif; color: #EDE8DF; text-decoration: none">Color</a>
+<a href="#tipografia" style="min-height: 44px; display: inline-flex; align-items: center; padding: 0 12px; white-space: nowrap; font: 600 14px 'DM Sans', sans-serif; color: #EDE8DF; text-decoration: none">Tipografía</a>
+<a href="#ilustracion" style="min-height: 44px; display: inline-flex; align-items: center; padding: 0 12px; white-space: nowrap; font: 600 14px 'DM Sans', sans-serif; color: #EDE8DF; text-decoration: none">Ilustración</a>
+<a href="#patron" style="min-height: 44px; display: inline-flex; align-items: center; padding: 0 12px; white-space: nowrap; font: 600 14px 'DM Sans', sans-serif; color: #EDE8DF; text-decoration: none">Patrón</a>
+<a href="#aplicaciones" style="min-height: 44px; display: inline-flex; align-items: center; padding: 0 12px; white-space: nowrap; font: 600 14px 'DM Sans', sans-serif; color: #EDE8DF; text-decoration: none">Aplicaciones</a>
+<a href="#imprenta" style="min-height: 44px; display: inline-flex; align-items: center; padding: 0 12px; white-space: nowrap; font: 600 14px 'DM Sans', sans-serif; color: #EDE8DF; text-decoration: none">Imprenta</a>
+</nav>
+</header>
+
+<section style="background: #620901; color: #EDE8DF; padding: clamp(64px, 10vw, 160px) clamp(16px, 4vw, 56px)">
+<div style="max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 420px), 1fr)); gap: clamp(32px, 5vw, 72px); align-items: center">
+<div style="display: flex; flex-direction: column; gap: 20px">
+<div style="font: 600 13px 'DM Sans', sans-serif; letter-spacing: .14em; text-transform: uppercase; color: #EDE8DF">Propuesta 3 de 4 · Rojo de mesa · paleta por elegir</div>
+<h1 style="margin: 0; font: 400 clamp(52px, 8vw, 104px)/.98 'Playfair Display', serif">Manual de marca</h1>
+<p style="margin: 0; font: 400 19px/1.55 'DM Sans', sans-serif; max-width: 30em">El Instagram en rojo que mandó Karla: rojo óxido de fondo, rojo jitomate, papel hueso y fotos en blanco y negro.</p>
+<p style="margin: 0; font: 400 17px/1.55 'DM Sans', sans-serif; max-width: 30em">La paleta está por elegir. Este manual muestra la marca completa con la propuesta 3, con el mismo contenido que las otras tres, para compararlas lado a lado.</p>
+<p style="margin: 0; font: 400 15px/1.5 'DM Sans', sans-serif; color: #EDE8DF">Versión del 17 de noviembre de 2026.</p>
+</div>
+<figure style="margin: 0; display: flex; flex-direction: column; gap: 10px; min-width: 0">
+<img src="/branding-archivos/p3/isotipo-principal.svg" loading="lazy" alt="Su isotipo: el nombre Casa dos Raices en vertical, sobre el color principal de esta propuesta" style="width: 100%; height: auto; aspect-ratio: 1384 / 1113; display: block; border-radius: 3px; background: transparent">
+
+</figure>
+</div>
+</section>
+
+<section id="logo" style="background: #EDE8DF; color: #620901; border-top: 1px solid #6209012E; padding: clamp(48px, 7vw, 112px) clamp(16px, 4vw, 56px); scroll-margin-top: 64px">
+<div style="max-width: 1200px; margin: 0 auto; display: flex; flex-direction: column; gap: clamp(24px, 3vw, 40px)">
+<div style="display: flex; flex-direction: column; gap: 14px">
+<div style="font: 600 13px 'DM Sans', sans-serif; letter-spacing: .14em; text-transform: uppercase">01 · Logo</div>
+<h2 style="margin: 0; font: 400 clamp(36px, 5vw, 64px)/1.05 'Playfair Display', serif">Su nombre en vertical es el isotipo</h2>
+</div>
+
+<ul class="reglas" style="list-style: disc; margin: 0; padding: 0 0 0 1.1em; display: flex; flex-direction: column; gap: 8px; font: 400 17px/1.55 'DM Sans', sans-serif; max-width: 46em"><li>El isotipo es su nombre en tres renglones: «Casa», «dos» en cursiva, «Raices». Es la versión principal: cajas, sellos, perfil y etiquetas.</li><li>El horizontal es para bandas angostas: encabezado web, cinta, firma.</li><li>El redondo es solo para el perfil de redes y sellos circulares.</li><li>Los panes son ilustración: nunca van en lugar del logo ni se pegan a él como símbolo.</li><li>Tamaño mínimo de ancho: vertical 22 mm (120 px), horizontal 40 mm (220 px), redondo 18 mm (64 px).</li><li>Zona de protección: la altura de la «a» de «Casa» alrededor de todo el logo. Ahí no entra texto, borde ni imagen.</li></ul>
+<figure style="margin: 0; display: flex; flex-direction: column; gap: 10px; min-width: 0">
+<img src="/branding-archivos/p3/logo-isotipo.webp" loading="lazy" alt="El isotipo vertical en positivo, negativo, sobre el principal y a una tinta, y el horizontal" style="width: 100%; height: auto; aspect-ratio: 1600 / 1120; display: block; border-radius: 3px; background: #EDE8DF">
+<figcaption style="font: 400 15px/1.5 'DM Sans', sans-serif; color: #620901">Versiones: positivo, negativo, sobre el principal y a una tinta.</figcaption>
+</figure>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 460px), 1fr)); gap: clamp(24px, 3vw, 40px); align-items: start"><figure style="margin: 0; display: flex; flex-direction: column; gap: 10px; min-width: 0">
+<img src="/branding-archivos/p3/logo-proteccion.webp" loading="lazy" alt="Zona de protección y tamaño mínimo del logo" style="width: 100%; height: auto; aspect-ratio: 1600 / 1479; display: block; border-radius: 3px; background: #EDE8DF">
+<figcaption style="font: 400 15px/1.5 'DM Sans', sans-serif; color: #620901">Zona de protección y tamaño mínimo.</figcaption>
+</figure><figure style="margin: 0; display: flex; flex-direction: column; gap: 10px; min-width: 0">
+<img src="/branding-archivos/p3/logo-redondo.webp" loading="lazy" alt="Logo redondo para perfil" style="width: 100%; height: auto; aspect-ratio: 1600 / 960; display: block; border-radius: 3px; background: #EDE8DF">
+<figcaption style="font: 400 15px/1.5 'DM Sans', sans-serif; color: #620901">Redondo para perfil.</figcaption>
+</figure></div>
+<figure style="margin: 0; display: flex; flex-direction: column; gap: 10px; min-width: 0">
+<img src="/branding-archivos/p3/logo-usos-incorrectos.webp" loading="lazy" alt="Usos incorrectos del logo" style="width: 100%; height: auto; aspect-ratio: 1600 / 678; display: block; border-radius: 3px; background: #EDE8DF">
+<figcaption style="font: 400 15px/1.5 'DM Sans', sans-serif; color: #620901">Lo que no se hace con el logo.</figcaption>
+</figure>
+</div>
+</section>
+
+<section id="color" style="background: #EDE8DF; color: #620901; border-top: 1px solid #6209012E; padding: clamp(48px, 7vw, 112px) clamp(16px, 4vw, 56px); scroll-margin-top: 64px">
+<div style="max-width: 1200px; margin: 0 auto; display: flex; flex-direction: column; gap: clamp(24px, 3vw, 40px)">
+<div style="display: flex; flex-direction: column; gap: 14px">
+<div style="font: 600 13px 'DM Sans', sans-serif; letter-spacing: .14em; text-transform: uppercase">02 · Color</div>
+<h2 style="margin: 0; font: 400 clamp(36px, 5vw, 64px)/1.05 'Playfair Display', serif">Cuatro colores, cada uno con su papel</h2>
+</div>
+
+<p style="margin: 0; font: 400 18px/1.55 'DM Sans', sans-serif; max-width: 44em">La paleta base son cuatro colores con papel fijo. Las proporciones son de uso en una pieza típica.</p>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 200px), 1fr)); gap: 12px">
+<div style="display: flex; flex-direction: column; border-radius: 3px; overflow: hidden; box-shadow: 0 0 0 1px #6209012E">
+<div style="background: #620901; color: #FFFFFF; padding: 16px; min-height: 120px; display: flex; flex-direction: column; justify-content: space-between; gap: 8px">
+<div style="font: 600 12px 'DM Sans', sans-serif; letter-spacing: .12em; text-transform: uppercase">Principal · 50 %</div>
+<div style="font: 400 24px/1.1 'Playfair Display', serif">Rojo óxido</div>
+</div>
+<div style="background: #FFFFFF; color: #2A1A1A; padding: 12px 16px; display: flex; flex-direction: column; gap: 6px; flex: 1">
+<div style="font: 600 14px 'DM Sans', sans-serif">#620901</div>
+<div style="font: 400 14px/1.45 'DM Sans', sans-serif">Fondos de marca y logo.</div>
+<div style="font: 400 13px 'DM Sans', sans-serif; color: #5A4A48">Tinta directa: CDR Rojo óxido</div>
+</div>
+</div>
+<div style="display: flex; flex-direction: column; border-radius: 3px; overflow: hidden; box-shadow: 0 0 0 1px #6209012E">
+<div style="background: #EDE8DF; color: #1A1A1A; padding: 16px; min-height: 120px; display: flex; flex-direction: column; justify-content: space-between; gap: 8px">
+<div style="font: 600 12px 'DM Sans', sans-serif; letter-spacing: .12em; text-transform: uppercase">Fondo · 30 %</div>
+<div style="font: 400 24px/1.1 'Playfair Display', serif">Hueso</div>
+</div>
+<div style="background: #FFFFFF; color: #2A1A1A; padding: 12px 16px; display: flex; flex-direction: column; gap: 6px; flex: 1">
+<div style="font: 600 14px 'DM Sans', sans-serif">#EDE8DF</div>
+<div style="font: 400 14px/1.45 'DM Sans', sans-serif">El papel de la marca: tarjetas, cajas, redes.</div>
+<div style="font: 400 13px 'DM Sans', sans-serif; color: #5A4A48">Tinta directa: CDR Hueso</div>
+</div>
+</div>
+<div style="display: flex; flex-direction: column; border-radius: 3px; overflow: hidden; box-shadow: 0 0 0 1px #6209012E">
+<div style="background: #D03A36; color: #FFFFFF; padding: 16px; min-height: 120px; display: flex; flex-direction: column; justify-content: space-between; gap: 8px">
+<div style="font: 600 12px 'DM Sans', sans-serif; letter-spacing: .12em; text-transform: uppercase">Acento · 12 %</div>
+<div style="font: 400 24px/1.1 'Playfair Display', serif">Jitomate</div>
+</div>
+<div style="background: #FFFFFF; color: #2A1A1A; padding: 12px 16px; display: flex; flex-direction: column; gap: 6px; flex: 1">
+<div style="font: 600 14px 'DM Sans', sans-serif">#D03A36</div>
+<div style="font: 400 14px/1.45 'DM Sans', sans-serif">Vuelta de tarjetas, detalles que resaltan.</div>
+<div style="font: 400 13px 'DM Sans', sans-serif; color: #5A4A48">Tinta directa: CDR Jitomate</div>
+</div>
+</div>
+<div style="display: flex; flex-direction: column; border-radius: 3px; overflow: hidden; box-shadow: 0 0 0 1px #6209012E">
+<div style="background: #1C1A18; color: #FFFFFF; padding: 16px; min-height: 120px; display: flex; flex-direction: column; justify-content: space-between; gap: 8px">
+<div style="font: 600 12px 'DM Sans', sans-serif; letter-spacing: .12em; text-transform: uppercase">Apoyo · 8 %</div>
+<div style="font: 400 24px/1.1 'Playfair Display', serif">Negro foto</div>
+</div>
+<div style="background: #FFFFFF; color: #2A1A1A; padding: 12px 16px; display: flex; flex-direction: column; gap: 6px; flex: 1">
+<div style="font: 600 14px 'DM Sans', sans-serif">#1C1A18</div>
+<div style="font: 400 14px/1.45 'DM Sans', sans-serif">Detalles, filetes, bandas.</div>
+<div style="font: 400 13px 'DM Sans', sans-serif; color: #5A4A48">Tinta directa: CDR Negro foto</div>
+</div>
+</div></div>
+<h3 style="margin: 16px 0 0; font: 400 clamp(26px, 3vw, 36px)/1.15 'Playfair Display', serif">De apoyo: no forman parte de la paleta base</h3>
+<p style="margin: 0; font: 400 17px/1.55 'DM Sans', sans-serif; max-width: 44em">Dos colores más para patrón, ilustración y temporada. No cuentan en las proporciones ni reemplazan a ninguno de los cuatro.</p>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 200px), 1fr)); gap: 12px; max-width: 640px">
+<div style="display: flex; flex-direction: column; border-radius: 3px; overflow: hidden; box-shadow: 0 0 0 1px #6209012E">
+<div style="background: #8F8B86; color: #1A1A1A; padding: 16px; min-height: 88px; display: flex; flex-direction: column; justify-content: space-between; gap: 8px">
+<div style="font: 600 12px 'DM Sans', sans-serif; letter-spacing: .12em; text-transform: uppercase">De apoyo</div>
+<div style="font: 400 20px/1.1 'Playfair Display', serif">Gris plata</div>
+</div>
+<div style="background: #FFFFFF; color: #2A1A1A; padding: 12px 16px; display: flex; flex-direction: column; gap: 6px; flex: 1">
+<div style="font: 600 14px 'DM Sans', sans-serif">#8F8B86</div>
+<div style="font: 400 14px/1.45 'DM Sans', sans-serif">Patrón, ilustración y temporada. No cuenta en las proporciones.</div>
+<div style="font: 400 13px 'DM Sans', sans-serif; color: #5A4A48">Tinta directa: CDR Gris plata</div>
+</div>
+</div>
+<div style="display: flex; flex-direction: column; border-radius: 3px; overflow: hidden; box-shadow: 0 0 0 1px #6209012E">
+<div style="background: #F3D9B1; color: #1A1A1A; padding: 16px; min-height: 88px; display: flex; flex-direction: column; justify-content: space-between; gap: 8px">
+<div style="font: 600 12px 'DM Sans', sans-serif; letter-spacing: .12em; text-transform: uppercase">De apoyo</div>
+<div style="font: 400 20px/1.1 'Playfair Display', serif">Luz de vela</div>
+</div>
+<div style="background: #FFFFFF; color: #2A1A1A; padding: 12px 16px; display: flex; flex-direction: column; gap: 6px; flex: 1">
+<div style="font: 600 14px 'DM Sans', sans-serif">#F3D9B1</div>
+<div style="font: 400 14px/1.45 'DM Sans', sans-serif">Patrón, ilustración y temporada. No cuenta en las proporciones.</div>
+<div style="font: 400 13px 'DM Sans', sans-serif; color: #5A4A48">Tinta directa: CDR Luz de vela</div>
+</div>
+</div></div>
+<h3 style="margin: 16px 0 0; font: 400 clamp(26px, 3vw, 36px)/1.15 'Playfair Display', serif">Parejas que sí se leen</h3>
+<p style="margin: 0; font: 400 17px/1.55 'DM Sans', sans-serif; max-width: 44em">Texto a 4,5:1 o más; logo y gráficos a 3:1 o más. En esta paleta no alcanzan ni para gráficos: rojo óxido sobre jitomate, jitomate sobre rojo óxido, rojo óxido sobre negro foto. Esas parejas se usan solo en bandas y filetes.</p>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 150px), 1fr)); gap: 12px"><div style="background: #EDE8DF; color: #620901; border-radius: 3px; padding: 16px; display: flex; flex-direction: column; gap: 6px; box-shadow: 0 0 0 1px #6209012E">
+<div style="font: 400 34px/1 'Playfair Display', serif">Aa</div><div style="font: 600 14px 'DM Sans', sans-serif">Rojo óxido sobre Hueso</div><div style="font: 400 14px 'DM Sans', sans-serif">11,0:1 · texto</div></div><div style="background: #D03A36; color: #620901; border-radius: 3px; padding: 16px; display: flex; flex-direction: column; gap: 6px; box-shadow: 0 0 0 1px #6209012E">
+<div style="font: 400 34px/1 'Playfair Display', serif">Aa</div><div style="font: 600 14px 'DM Sans', sans-serif">Rojo óxido sobre Jitomate</div><div style="font: 400 14px 'DM Sans', sans-serif">2,8:1 · solo decoración</div></div><div style="background: #620901; color: #EDE8DF; border-radius: 3px; padding: 16px; display: flex; flex-direction: column; gap: 6px; box-shadow: 0 0 0 1px #6209012E">
+<div style="font: 400 34px/1 'Playfair Display', serif">Aa</div><div style="font: 600 14px 'DM Sans', sans-serif">Hueso sobre Rojo óxido</div><div style="font: 400 14px 'DM Sans', sans-serif">11,0:1 · texto</div></div><div style="background: #620901; color: #D03A36; border-radius: 3px; padding: 16px; display: flex; flex-direction: column; gap: 6px; box-shadow: 0 0 0 1px #6209012E">
+<div style="font: 400 34px/1 'Playfair Display', serif">Aa</div><div style="font: 600 14px 'DM Sans', sans-serif">Jitomate sobre Rojo óxido</div><div style="font: 400 14px 'DM Sans', sans-serif">2,8:1 · solo decoración</div></div><div style="background: #1C1A18; color: #620901; border-radius: 3px; padding: 16px; display: flex; flex-direction: column; gap: 6px; box-shadow: 0 0 0 1px #6209012E">
+<div style="font: 400 34px/1 'Playfair Display', serif">Aa</div><div style="font: 600 14px 'DM Sans', sans-serif">Rojo óxido sobre Negro foto</div><div style="font: 400 14px 'DM Sans', sans-serif">1,3:1 · solo decoración</div></div><div style="background: #EDE8DF; color: #1C1A18; border-radius: 3px; padding: 16px; display: flex; flex-direction: column; gap: 6px; box-shadow: 0 0 0 1px #6209012E">
+<div style="font: 400 34px/1 'Playfair Display', serif">Aa</div><div style="font: 600 14px 'DM Sans', sans-serif">Negro foto sobre Hueso</div><div style="font: 400 14px 'DM Sans', sans-serif">14,2:1 · texto</div></div></div>
+<figure style="margin: 0; display: flex; flex-direction: column; gap: 10px; min-width: 0">
+<img src="/branding-archivos/p3/paleta.webp" loading="lazy" alt="Lámina de la paleta Rojo de mesa con los colores de apoyo aparte, tramas permitidas y logo en positivo y negativo" style="width: 100%; height: auto; aspect-ratio: 1600 / 1405; display: block; border-radius: 3px; background: #EDE8DF">
+<figcaption style="font: 400 15px/1.5 'DM Sans', sans-serif; color: #620901">La lámina completa: la paleta base, los dos de apoyo aparte y las tramas permitidas a una tinta.</figcaption>
+</figure>
+</div>
+</section>
+
+<section id="tipografia" style="background: #EDE8DF; color: #620901; border-top: 1px solid #6209012E; padding: clamp(48px, 7vw, 112px) clamp(16px, 4vw, 56px); scroll-margin-top: 64px">
+<div style="max-width: 1200px; margin: 0 auto; display: flex; flex-direction: column; gap: clamp(24px, 3vw, 40px)">
+<div style="display: flex; flex-direction: column; gap: 14px">
+<div style="font: 600 13px 'DM Sans', sans-serif; letter-spacing: .14em; text-transform: uppercase">03 · Tipografía</div>
+<h2 style="margin: 0; font: 400 clamp(36px, 5vw, 64px)/1.05 'Playfair Display', serif">Dos familias, tres voces</h2>
+</div>
+
+<ul class="reglas" style="list-style: disc; margin: 0; padding: 0 0 0 1.1em; display: flex; flex-direction: column; gap: 8px; font: 400 17px/1.55 'DM Sans', sans-serif; max-width: 46em"><li><strong>Playfair Display</strong>: titulares y subtítulos.</li><li><strong>Playfair Display Italic</strong>: la frase de acento, una por pieza, nunca en versales.</li><li><strong>DM Sans</strong>: texto, datos y etiquetas (las etiquetas en SemiBold y versales espaciadas).</li><li>Las dos son de Google Fonts, con licencia libre para imprenta y web.</li></ul>
+<figure style="margin: 0; display: flex; flex-direction: column; gap: 10px; min-width: 0">
+<img src="/branding-archivos/p3/tipografia.webp" loading="lazy" alt="Sistema tipográfico con jerarquía, tamaños e interlineados" style="width: 100%; height: auto; aspect-ratio: 1600 / 2160; display: block; border-radius: 3px; background: #EDE8DF">
+<figcaption style="font: 400 15px/1.5 'DM Sans', sans-serif; color: #620901">Jerarquía, tamaños y espaciado.</figcaption>
+</figure>
+</div>
+</section>
+
+<section id="ilustracion" style="background: #EDE8DF; color: #620901; border-top: 1px solid #6209012E; padding: clamp(48px, 7vw, 112px) clamp(16px, 4vw, 56px); scroll-margin-top: 64px">
+<div style="max-width: 1200px; margin: 0 auto; display: flex; flex-direction: column; gap: clamp(24px, 3vw, 40px)">
+<div style="display: flex; flex-direction: column; gap: 14px">
+<div style="font: 600 13px 'DM Sans', sans-serif; letter-spacing: .14em; text-transform: uppercase">04 · Ilustración</div>
+<h2 style="margin: 0; font: 400 clamp(36px, 5vw, 64px)/1.05 'Playfair Display', serif">Sus cuatro panes: más opciones por elegir</h2>
+</div>
+
+<div role="note" style="border: 2px solid #620901; border-radius: 4px; padding: 20px 24px; display: flex; flex-direction: column; gap: 8px; max-width: 46em; background: #EDE8DF; color: #620901">
+<div style="font: 600 13px 'DM Sans', sans-serif; letter-spacing: .14em; text-transform: uppercase">Por elegir</div>
+<p style="margin: 0; font: 400 17px/1.55 'DM Sans', sans-serif">El dibujo de los panes todavía no está decidido. Abajo va la familia «Hoy», una de las opciones. Hay más opciones en preparación; esta sección se actualiza cuando estén listas.</p>
+</div>
+<h3 style="margin: 16px 0 0; font: 400 clamp(26px, 3vw, 36px)/1.15 'Playfair Display', serif">Opción «Hoy»</h3>
+<p style="margin: 0; font: 400 17px/1.55 'DM Sans', sans-serif; max-width: 44em">Croissant, rol de canela, concha y pan de muerto, como una familia: sólidos con líneas y un borde oscuro.</p>
+<figure style="margin: 0; display: flex; flex-direction: column; gap: 10px"><img src="/branding-archivos/p3/hoy-claro.webp" loading="lazy" alt="Familia Hoy: croissant, rol de canela, concha y pan de muerto sobre fondo claro" style="width: 100%; height: auto; aspect-ratio: 1600 / 400; display: block; border-radius: 3px"><figcaption style="font: 400 15px/1.5 'DM Sans', sans-serif">Sobre fondo claro.</figcaption></figure>
+<figure style="margin: 0; display: flex; flex-direction: column; gap: 10px"><img src="/branding-archivos/p3/hoy-oscuro.webp" loading="lazy" alt="Familia Hoy sobre el color principal" style="width: 100%; height: auto; aspect-ratio: 1600 / 400; display: block; border-radius: 3px"><figcaption style="font: 400 15px/1.5 'DM Sans', sans-serif">Sobre el color principal.</figcaption></figure>
+<ul class="reglas" style="list-style: disc; margin: 0; padding: 0 0 0 1.1em; display: flex; flex-direction: column; gap: 8px; font: 400 17px/1.55 'DM Sans', sans-serif; max-width: 46em"><li>Los panes son ilustración: no llevan cara ni se deforman, y no reemplazan al logo.</li><li>Las reglas de trazo, tintas y tamaños mínimos se escriben cuando se elija la familia.</li></ul>
+<h3 style="margin: 16px 0 0; font: 400 clamp(26px, 3vw, 36px)/1.15 'Playfair Display', serif">Las piezas, con el dibujo provisional</h3>
+<figure style="margin: 0; display: flex; flex-direction: column; gap: 10px; min-width: 0">
+<img src="/branding-archivos/p3/ilustraciones.webp" loading="lazy" alt="Los cuatro panes en el dibujo provisional que llevan hoy las piezas" style="width: 100%; height: auto; aspect-ratio: 1600 / 1000; display: block; border-radius: 3px; background: #EDE8DF">
+<figcaption style="font: 400 15px/1.5 'DM Sans', sans-serif; color: #620901">Provisional: el dibujo que llevan hoy las piezas de este manual.</figcaption>
+</figure>
+<figure style="margin: 0; display: flex; flex-direction: column; gap: 10px; min-width: 0">
+<img src="/branding-archivos/p3/croissant.webp" loading="lazy" alt="El croissant en el dibujo provisional, en sus versiones y tamaños" style="width: 100%; height: auto; aspect-ratio: 1600 / 900; display: block; border-radius: 3px; background: #EDE8DF">
+<figcaption style="font: 400 15px/1.5 'DM Sans', sans-serif; color: #620901">Provisional: el croissant en sus versiones.</figcaption>
+</figure>
+</div>
+</section>
+
+<section id="patron" style="background: #EDE8DF; color: #620901; border-top: 1px solid #6209012E; padding: clamp(48px, 7vw, 112px) clamp(16px, 4vw, 56px); scroll-margin-top: 64px">
+<div style="max-width: 1200px; margin: 0 auto; display: flex; flex-direction: column; gap: clamp(24px, 3vw, 40px)">
+<div style="display: flex; flex-direction: column; gap: 14px">
+<div style="font: 600 13px 'DM Sans', sans-serif; letter-spacing: .14em; text-transform: uppercase">05 · Patrón</div>
+<h2 style="margin: 0; font: 400 clamp(36px, 5vw, 64px)/1.05 'Playfair Display', serif">Los cuatro panes, a una tinta</h2>
+</div>
+
+<ul class="reglas" style="list-style: disc; margin: 0; padding: 0 0 0 1.1em; display: flex; flex-direction: column; gap: 8px; font: 400 17px/1.55 'DM Sans', sans-serif; max-width: 46em"><li>Los panes a una tinta, girados y con tamaños que varían; el módulo repite sin costura.</li><li>Para papel de envoltura, forro de caja y fondos de redes. Va en una sola tinta sobre el fondo.</li><li>Lleva el dibujo provisional de los panes: se rearma con la dirección que se elija.</li></ul>
+<figure style="margin: 0; display: flex; flex-direction: column; gap: 10px; min-width: 0">
+<img src="/branding-archivos/p3/patron.webp" loading="lazy" alt="Patrón de marca con los cuatro panes a una tinta, en el dibujo provisional" style="width: 100%; height: auto; aspect-ratio: 1600 / 1032; display: block; border-radius: 3px; background: #EDE8DF">
+
+</figure>
+</div>
+</section>
+
+<section id="aplicaciones" style="background: #EDE8DF; color: #620901; border-top: 1px solid #6209012E; padding: clamp(48px, 7vw, 112px) clamp(16px, 4vw, 56px); scroll-margin-top: 64px">
+<div style="max-width: 1200px; margin: 0 auto; display: flex; flex-direction: column; gap: clamp(24px, 3vw, 40px)">
+<div style="display: flex; flex-direction: column; gap: 14px">
+<div style="font: 600 13px 'DM Sans', sans-serif; letter-spacing: .14em; text-transform: uppercase">06 · Aplicaciones</div>
+<h2 style="margin: 0; font: 400 clamp(36px, 5vw, 64px)/1.05 'Playfair Display', serif">Donde vive la marca</h2>
+</div>
+
+<p style="margin: 0; font: 400 17px/1.55 'DM Sans', sans-serif; max-width: 44em">Los panes de estas piezas llevan el dibujo provisional. Cuando se elija la dirección de los panes, las piezas se regeneran con ella.</p>
+<h3 style="margin: 16px 0 0; font: 400 clamp(26px, 3vw, 36px)/1.15 'Playfair Display', serif">Sellos</h3>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 460px), 1fr)); gap: clamp(24px, 3vw, 40px); align-items: start"><figure style="margin: 0; display: flex; flex-direction: column; gap: 10px; min-width: 0">
+<img src="/branding-archivos/p3/sello-cera.webp" loading="lazy" alt="Sello de cera con relieve, matriz de latón de 25 mm" style="width: 100%; height: auto; aspect-ratio: 1600 / 1600; display: block; border-radius: 3px; background: #EDE8DF">
+<figcaption style="font: 400 15px/1.5 'DM Sans', sans-serif; color: #620901">Sello de cera con relieve: matriz de latón de 25 mm.</figcaption>
+</figure><figure style="margin: 0; display: flex; flex-direction: column; gap: 10px; min-width: 0">
+<img src="/branding-archivos/p3/sello-pan.webp" loading="lazy" alt="Sticker redondo que distingue su pan" style="width: 100%; height: auto; aspect-ratio: 1600 / 1023; display: block; border-radius: 3px; background: #EDE8DF">
+<figcaption style="font: 400 15px/1.5 'DM Sans', sans-serif; color: #620901">Sticker que distingue su pan.</figcaption>
+</figure></div>
+<figure style="margin: 0; display: flex; flex-direction: column; gap: 10px; min-width: 0">
+<img src="/branding-archivos/p3/acrilico-concha.webp" loading="lazy" alt="Plantilla de acrílico para marcar la concha" style="width: 100%; height: auto; aspect-ratio: 1600 / 1112; display: block; border-radius: 3px; background: #EDE8DF">
+<figcaption style="font: 400 15px/1.5 'DM Sans', sans-serif; color: #620901">Plantilla de acrílico para la concha.</figcaption>
+</figure>
+<h3 style="margin: 16px 0 0; font: 400 clamp(26px, 3vw, 36px)/1.15 'Playfair Display', serif">Bolsa con asa de pan</h3>
+<figure style="margin: 0; display: flex; flex-direction: column; gap: 10px; min-width: 0">
+<img src="/branding-archivos/p3/bolsa.webp" loading="lazy" alt="Bolsas con asa troquelada de croissant y de pan de muerto" style="width: 100%; height: auto; aspect-ratio: 1600 / 1165; display: block; border-radius: 3px; background: #EDE8DF">
+<figcaption style="font: 400 15px/1.5 'DM Sans', sans-serif; color: #620901">El asa es el pan: croissant todo el año, pan de muerto en temporada.</figcaption>
+</figure>
+<figure style="margin: 0; display: flex; flex-direction: column; gap: 10px; min-width: 0">
+<img src="/branding-archivos/p3/bolsa-croissant.webp" loading="lazy" alt="Bolsa armada con asa de croissant y su troquel extendido" style="width: 100%; height: auto; aspect-ratio: 1600 / 1112; display: block; border-radius: 3px; background: #EDE8DF">
+<figcaption style="font: 400 15px/1.5 'DM Sans', sans-serif; color: #620901">Bolsa armada y troquel extendido, frente y vuelta.</figcaption>
+</figure>
+<h3 style="margin: 16px 0 0; font: 400 clamp(26px, 3vw, 36px)/1.15 'Playfair Display', serif">Stickers</h3>
+<figure style="margin: 0; display: flex; flex-direction: column; gap: 10px; min-width: 0">
+<img src="/branding-archivos/p3/stickers.webp" loading="lazy" alt="Sticker troquelado de croissant y redondo de cierre" style="width: 100%; height: auto; aspect-ratio: 1600 / 744; display: block; border-radius: 3px; background: #EDE8DF">
+<figcaption style="font: 400 15px/1.5 'DM Sans', sans-serif; color: #620901">Croissant troquelado de 50 mm y redondo de cierre de 40 mm.</figcaption>
+</figure>
+<h3 style="margin: 16px 0 0; font: 400 clamp(26px, 3vw, 36px)/1.15 'Playfair Display', serif">Tarjetas con QR</h3>
+<figure style="margin: 0; display: flex; flex-direction: column; gap: 10px; min-width: 0">
+<img src="/branding-archivos/p3/tarjetas.webp" loading="lazy" alt="Tarjetas troqueladas con la forma del pan, frente y vuelta con QR a su Instagram" style="width: 100%; height: auto; aspect-ratio: 1600 / 960; display: block; border-radius: 3px; background: #EDE8DF">
+<figcaption style="font: 400 15px/1.5 'DM Sans', sans-serif; color: #620901">Al frente, el pan; atrás, el logo, el QR a su Instagram y su WhatsApp.</figcaption>
+</figure>
+<h3 style="margin: 16px 0 0; font: 400 clamp(26px, 3vw, 36px)/1.15 'Playfair Display', serif">Caja</h3>
+<figure style="margin: 0; display: flex; flex-direction: column; gap: 10px; min-width: 0">
+<img src="/branding-archivos/p3/caja.webp" loading="lazy" alt="Caja de pan de muerto con faja y etiqueta" style="width: 100%; height: auto; aspect-ratio: 1600 / 1103; display: block; border-radius: 3px; background: #EDE8DF">
+<figcaption style="font: 400 15px/1.5 'DM Sans', sans-serif; color: #620901">Caja de seis panes de muerto, faja y etiqueta. Medidas de dibujo: se ajustan a su caja real.</figcaption>
+</figure>
+<h3 style="margin: 16px 0 0; font: 400 clamp(26px, 3vw, 36px)/1.15 'Playfair Display', serif">Más piezas</h3>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 460px), 1fr)); gap: clamp(24px, 3vw, 40px); align-items: start"><figure style="margin: 0; display: flex; flex-direction: column; gap: 10px; min-width: 0">
+<img src="/branding-archivos/p3/etiquetas.webp" loading="lazy" alt="Etiquetas de producto" style="width: 100%; height: auto; aspect-ratio: 1600 / 1088; display: block; border-radius: 3px; background: #EDE8DF">
+<figcaption style="font: 400 15px/1.5 'DM Sans', sans-serif; color: #620901">Etiquetas.</figcaption>
+</figure><figure style="margin: 0; display: flex; flex-direction: column; gap: 10px; min-width: 0">
+<img src="/branding-archivos/p3/wallet.webp" loading="lazy" alt="Tarjeta de fidelización digital" style="width: 100%; height: auto; aspect-ratio: 1600 / 960; display: block; border-radius: 3px; background: #EDE8DF">
+<figcaption style="font: 400 15px/1.5 'DM Sans', sans-serif; color: #620901">Tarjeta de fidelización.</figcaption>
+</figure></div>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 460px), 1fr)); gap: clamp(24px, 3vw, 40px); align-items: start"><figure style="margin: 0; display: flex; flex-direction: column; gap: 10px; min-width: 0">
+<img src="/branding-archivos/p3/instagram.webp" loading="lazy" alt="Perfil y publicación de Instagram" style="width: 100%; height: auto; aspect-ratio: 1600 / 928; display: block; border-radius: 3px; background: #EDE8DF">
+<figcaption style="font: 400 15px/1.5 'DM Sans', sans-serif; color: #620901">Instagram.</figcaption>
+</figure><figure style="margin: 0; display: flex; flex-direction: column; gap: 10px; min-width: 0">
+<img src="/branding-archivos/p3/aplicaciones.webp" loading="lazy" alt="Mandil bordado y espectacular" style="width: 100%; height: auto; aspect-ratio: 1600 / 1915; display: block; border-radius: 3px; background: #EDE8DF">
+<figcaption style="font: 400 15px/1.5 'DM Sans', sans-serif; color: #620901">Mandil y espectacular.</figcaption>
+</figure></div>
+</div>
+</section>
+
+<section id="imprenta" style="background: #620901; color: #EDE8DF; border-top: 1px solid #6209012E; padding: clamp(48px, 7vw, 112px) clamp(16px, 4vw, 56px); scroll-margin-top: 64px">
+<div style="max-width: 1200px; margin: 0 auto; display: flex; flex-direction: column; gap: clamp(24px, 3vw, 40px)">
+<div style="display: flex; flex-direction: column; gap: 14px">
+<div style="font: 600 13px 'DM Sans', sans-serif; letter-spacing: .14em; text-transform: uppercase">07 · Imprenta</div>
+<h2 style="margin: 0; font: 400 clamp(36px, 5vw, 64px)/1.05 'Playfair Display', serif">Tintas directas y archivos</h2>
+</div>
+
+<ul class="reglas" style="list-style: disc; margin: 0; padding: 0 0 0 1.1em; display: flex; flex-direction: column; gap: 8px; font: 400 17px/1.55 'DM Sans', sans-serif; max-width: 46em"><li>57 PDFs de la propuesta 3, abajo, listos para la imprenta.</li><li>Cada color va como tinta directa con nombre («CDR Rojo óxido», «CDR Jitomate»…). La imprenta la iguala contra una muestra física, no contra el CMYK.</li><li>El corte va en la separación «CutContour», el hendido en «Crease» y las guías en «Guias-no-imprimir».</li><li>Antes del tiraje: prueba de color física de cada tinta.</li><li>Todavía salen en proceso (tramas y mezclas de dos tintas): etiqueta-caja, etiqueta-colgante-vuelta, etiqueta-pan, instagram-publicacion-guias, instagram-publicacion, patron-croissant, tarjeta-croissant-vuelta, tarjeta-pandemuerto-vuelta, tarjeta-rol-vuelta, wallet-banda-ejemplo, wallet-banda, wallet-cafeteria, wallet-casa.</li></ul><h3 style="margin: 24px 0 0; font: 400 clamp(26px, 3vw, 36px)/1.15 'Playfair Display', serif">Descargas</h3><div class="descargas" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr)); gap: 24px 32px; margin-top: 8px">
+<div style="display: flex; flex-direction: column; gap: 6px; min-width: 0">
+<h3 style="margin: 0 0 4px; font: 400 22px/1.2 'Playfair Display', serif">Logo</h3>
+<a href="/branding-archivos/p3/pdf/isotipo-negativo.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">isotipo negativo · PDF</a>
+<a href="/branding-archivos/p3/pdf/isotipo-positivo.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">isotipo positivo · PDF</a>
+<a href="/branding-archivos/p3/pdf/isotipo-principal.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">isotipo principal · PDF</a>
+<a href="/branding-archivos/p3/pdf/isotipo-una-tinta.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">isotipo una tinta · PDF</a>
+<a href="/branding-archivos/p3/pdf/logo-horizontal-negativo.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">logo horizontal negativo · PDF</a>
+<a href="/branding-archivos/p3/pdf/logo-horizontal-negro.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">logo horizontal negro · PDF</a>
+<a href="/branding-archivos/p3/pdf/logo-horizontal-positivo.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">logo horizontal positivo · PDF</a>
+<a href="/branding-archivos/p3/pdf/logo-redondo.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">logo redondo · PDF</a>
+<a href="/branding-archivos/p3/pdf/logo-vertical-negativo.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">logo vertical negativo · PDF</a>
+<a href="/branding-archivos/p3/pdf/logo-vertical-negro.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">logo vertical negro · PDF</a>
+<a href="/branding-archivos/p3/pdf/logo-vertical-positivo.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">logo vertical positivo · PDF</a>
+</div>
+<div style="display: flex; flex-direction: column; gap: 6px; min-width: 0">
+<h3 style="margin: 0 0 4px; font: 400 22px/1.2 'Playfair Display', serif">Sellos y plantilla de acrílico</h3>
+<a href="/branding-archivos/p3/pdf/acrilico-concha.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">acrilico concha · PDF</a>
+<a href="/branding-archivos/p3/pdf/sello-cera-matriz.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">sello cera matriz · PDF</a>
+<a href="/branding-archivos/p3/pdf/sello-pan.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">sello pan · PDF</a>
+</div>
+<div style="display: flex; flex-direction: column; gap: 6px; min-width: 0">
+<h3 style="margin: 0 0 4px; font: 400 22px/1.2 'Playfair Display', serif">Bolsa con asa de pan</h3>
+<a href="/branding-archivos/p3/pdf/bolsa-cara-croissant.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">bolsa cara croissant · PDF</a>
+<a href="/branding-archivos/p3/pdf/bolsa-cara-pandemuerto.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">bolsa cara pandemuerto · PDF</a>
+<a href="/branding-archivos/p3/pdf/bolsa-croissant-troquel-vuelta.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">bolsa croissant troquel vuelta · PDF</a>
+<a href="/branding-archivos/p3/pdf/bolsa-croissant-troquel.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">bolsa croissant troquel · PDF</a>
+<a href="/branding-archivos/p3/pdf/bolsa-pandemuerto-troquel-vuelta.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">bolsa pandemuerto troquel vuelta · PDF</a>
+<a href="/branding-archivos/p3/pdf/bolsa-pandemuerto-troquel.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">bolsa pandemuerto troquel · PDF</a>
+</div>
+<div style="display: flex; flex-direction: column; gap: 6px; min-width: 0">
+<h3 style="margin: 0 0 4px; font: 400 22px/1.2 'Playfair Display', serif">Stickers</h3>
+<a href="/branding-archivos/p3/pdf/sticker-cierre.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">sticker cierre · PDF</a>
+<a href="/branding-archivos/p3/pdf/sticker-croissant.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">sticker croissant · PDF</a>
+</div>
+<div style="display: flex; flex-direction: column; gap: 6px; min-width: 0">
+<h3 style="margin: 0 0 4px; font: 400 22px/1.2 'Playfair Display', serif">Tarjetas con QR</h3>
+<a href="/branding-archivos/p3/pdf/tarjeta-croissant-frente.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">tarjeta croissant frente · PDF</a>
+<a href="/branding-archivos/p3/pdf/tarjeta-croissant-vuelta.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">tarjeta croissant vuelta · PDF</a>
+<a href="/branding-archivos/p3/pdf/tarjeta-pandemuerto-frente.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">tarjeta pandemuerto frente · PDF</a>
+<a href="/branding-archivos/p3/pdf/tarjeta-pandemuerto-vuelta.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">tarjeta pandemuerto vuelta · PDF</a>
+<a href="/branding-archivos/p3/pdf/tarjeta-rol-frente.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">tarjeta rol frente · PDF</a>
+<a href="/branding-archivos/p3/pdf/tarjeta-rol-vuelta.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">tarjeta rol vuelta · PDF</a>
+</div>
+<div style="display: flex; flex-direction: column; gap: 6px; min-width: 0">
+<h3 style="margin: 0 0 4px; font: 400 22px/1.2 'Playfair Display', serif">Etiquetas y faja</h3>
+<a href="/branding-archivos/p3/pdf/etiqueta-caja.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">etiqueta caja · PDF</a>
+<a href="/branding-archivos/p3/pdf/etiqueta-colgante-frente.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">etiqueta colgante frente · PDF</a>
+<a href="/branding-archivos/p3/pdf/etiqueta-colgante-vuelta.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">etiqueta colgante vuelta · PDF</a>
+<a href="/branding-archivos/p3/pdf/etiqueta-pan.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">etiqueta pan · PDF</a>
+<a href="/branding-archivos/p3/pdf/etiqueta-pandemuerto.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">etiqueta pandemuerto · PDF</a>
+<a href="/branding-archivos/p3/pdf/faja-pandemuerto.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">faja pandemuerto · PDF</a>
+</div>
+<div style="display: flex; flex-direction: column; gap: 6px; min-width: 0">
+<h3 style="margin: 0 0 4px; font: 400 22px/1.2 'Playfair Display', serif">Patrón</h3>
+<a href="/branding-archivos/p3/pdf/patron-croissant.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">patron croissant · PDF</a>
+<a href="/branding-archivos/p3/pdf/patron-panes.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">patron panes · PDF</a>
+</div>
+<div style="display: flex; flex-direction: column; gap: 6px; min-width: 0">
+<h3 style="margin: 0 0 4px; font: 400 22px/1.2 'Playfair Display', serif">Tarjeta de lealtad (wallet)</h3>
+<a href="/branding-archivos/p3/pdf/wallet-banda-ejemplo.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">wallet banda ejemplo · PDF</a>
+<a href="/branding-archivos/p3/pdf/wallet-banda.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">wallet banda · PDF</a>
+<a href="/branding-archivos/p3/pdf/wallet-cafeteria.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">wallet cafeteria · PDF</a>
+<a href="/branding-archivos/p3/pdf/wallet-casa.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">wallet casa · PDF</a>
+</div>
+<div style="display: flex; flex-direction: column; gap: 6px; min-width: 0">
+<h3 style="margin: 0 0 4px; font: 400 22px/1.2 'Playfair Display', serif">Instagram</h3>
+<a href="/branding-archivos/p3/pdf/instagram-perfil.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">instagram perfil · PDF</a>
+<a href="/branding-archivos/p3/pdf/instagram-publicacion-guias.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">instagram publicacion guias · PDF</a>
+<a href="/branding-archivos/p3/pdf/instagram-publicacion.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">instagram publicacion · PDF</a>
+</div>
+<div style="display: flex; flex-direction: column; gap: 6px; min-width: 0">
+<h3 style="margin: 0 0 4px; font: 400 22px/1.2 'Playfair Display', serif">Mandil y espectacular</h3>
+<a href="/branding-archivos/p3/pdf/espectacular.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">espectacular · PDF</a>
+<a href="/branding-archivos/p3/pdf/mandil-bordado.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">mandil bordado · PDF</a>
+</div>
+<div style="display: flex; flex-direction: column; gap: 6px; min-width: 0">
+<h3 style="margin: 0 0 4px; font: 400 22px/1.2 'Playfair Display', serif">Panes (dibujo provisional)</h3>
+<a href="/branding-archivos/p3/pdf/croissant-minimo.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">croissant minimo · PDF</a>
+<a href="/branding-archivos/p3/pdf/croissant-negativo.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">croissant negativo · PDF</a>
+<a href="/branding-archivos/p3/pdf/croissant-positivo.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">croissant positivo · PDF</a>
+<a href="/branding-archivos/p3/pdf/croissant-una-tinta.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">croissant una tinta · PDF</a>
+<a href="/branding-archivos/p3/pdf/pan-concha-dos-tintas.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">pan concha dos tintas · PDF</a>
+<a href="/branding-archivos/p3/pdf/pan-concha-una-tinta.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">pan concha una tinta · PDF</a>
+<a href="/branding-archivos/p3/pdf/pan-croissant-dos-tintas.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">pan croissant dos tintas · PDF</a>
+<a href="/branding-archivos/p3/pdf/pan-croissant-una-tinta.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">pan croissant una tinta · PDF</a>
+<a href="/branding-archivos/p3/pdf/pan-muerto-dos-tintas.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">pan muerto dos tintas · PDF</a>
+<a href="/branding-archivos/p3/pdf/pan-muerto-una-tinta.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">pan muerto una tinta · PDF</a>
+<a href="/branding-archivos/p3/pdf/pan-rol-dos-tintas.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">pan rol dos tintas · PDF</a>
+<a href="/branding-archivos/p3/pdf/pan-rol-una-tinta.pdf" download style="font: 500 15px/1.4 'DM Sans', sans-serif; min-height: 32px; display: inline-flex; align-items: center; overflow-wrap: anywhere">pan rol una tinta · PDF</a>
+</div></div>
+</div>
+</section>
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","link",null,{"rel":"stylesheet","precedence":"default","href":"https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&display=swap"}],["$","div",null,{"className":"branding","style":{"background":"#EDE8DF","color":"#620901","fontFamily":"'DM Sans', system-ui, sans-serif"},"dangerouslySetInnerHTML":{"__html":"$d"}}]],["$Le"],"$Lf"]}],"p":"$@10","v":null,"s":"$6"}}]]
+a:[["children",{"s":{"n":"p","t":"d","k":"p3","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@b","v":"$9","s":"$6"},"c":"$Qc"}]]
+7:[["children",{"s":"branding","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@8","v":"$9","s":"$6"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1-p58d3iln4iv.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/3qfy96eoyh-ek.js","async":true}]],["$","html",null,{"lang":"es-MX","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var d=document.documentElement;try{var q=new URLSearchParams(location.search);if(!matchMedia('(prefers-reduced-motion: reduce)').matches&&!q.has('fijo'))d.classList.add('con-movimiento')}catch(e){}})();"}}]}],["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#5C0B20"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Manual de marca, propuesta 3 de 4: Rojo de mesa, Casa Dos Raíces"}],["$","meta","1",{"name":"description","content":"Manual de marca de una de las cuatro propuestas. La paleta está por elegir."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow, nocache"}],["$","meta","3",{"name":"googlebot","content":"noindex, nofollow"}],["$","link","4",{"rel":"canonical","href":"https://casa-dosraices.com/branding/p3/"}],["$","meta","5",{"property":"og:title","content":"Casa Dos Raíces"}],["$","meta","6",{"property":"og:description","content":"Panificadora gourmet: croissant y pan de muerto para hoteles, cafeterías y tiendas, desde Tequisquiapan, Querétaro."}],["$","meta","7",{"property":"og:url","content":"https://casa-dosraices.com/"}],["$","meta","8",{"property":"og:site_name","content":"Casa Dos Raíces"}],["$","meta","9",{"property":"og:locale","content":"es_MX"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary"}],["$","meta","12",{"name":"twitter:title","content":"Casa Dos Raíces"}],["$","meta","13",{"name":"twitter:description","content":"Panificadora gourmet: croissant y pan de muerto para hoteles, cafeterías y tiendas, desde Tequisquiapan, Querétaro."}],["$","link","14",{"rel":"icon","href":"/icon.svg?icon.1kp28gykx59zf.svg","sizes":"any","type":"image/svg+xml"}],["$","$L16","15",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@17","v":null,"s":"$6"}},"a":"$@18","u":"$@19","b":"UjwwgmKjuVOiMP9dE4ffA"}
+1a:I[97367,["$2"],"OutletBoundary"]
+:HL["/_next/static/chunks/1xvd04v1yds9n.css","style"]
+e:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1xvd04v1yds9n.css","precedence":"next"}]
+f:["$","$L1a",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
+6:300
+1b:null
+19:true
+6:C
+18:0
+b:"$undefined"
+8:"$undefined"
+5:"$undefined"
+17:"$undefined"
+10:"$undefined"
