@@ -1,0 +1,180 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/3qfy96eoyh-ek.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+c:"ViewportBoundary"
+d:I[97367,["$2"],"$c"]
+f:"MetadataBoundary"
+10:I[97367,["$2"],"$f"]
+11:"$Sreact.suspense"
+13:I[68027,["$2"],"default",1]
+:HL["/_next/static/chunks/1-p58d3iln4iv.css","style"]
+:HC["/",""]
+:HL["/_next/static/chunks/1g_1r6h50_i6k.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&display=swap","style"]
+6:X
+9:T3332,<main class="presentacion">
+<section class="pres-diapo pres-oscura pres-portada" aria-label="Portada">
+<p class="pres-kicker">Para Jorge y Karla · 17 de noviembre de 2026</p>
+<img class="pres-logo" src="/branding-archivos/presentacion/logo-vertical.svg" alt="Casa Dos Raíces" width="1384" height="1113">
+<p class="pres-sub">Propuesta de marca</p>
+<p class="pres-baja" aria-hidden="true">Desliza ↓</p>
+</section>
+<section class="pres-diapo pres-clara" aria-labelledby="pres-idea">
+<div class="pres-col">
+<p class="pres-kicker">La idea</p>
+<h2 id="pres-idea" class="pres-h">Su nombre firma.<br>Su pan hace el resto.</h2>
+<p class="pres-p">El logo es siempre su nombre en vertical: <em>Casa</em>, <em>dos</em>, <em>Raíces</em>. Los panes que hornean, croissant, concha, rol de canela y pan de muerto, viven en el empaque: el asa de la bolsa, la caja, la tarjeta. Y su frase de siempre: «Horneamos calidad y tradición en cada bocado».</p>
+</div>
+</section>
+<section class="pres-diapo pres-clara" aria-labelledby="pres-paletas">
+<div class="pres-ancha">
+<p class="pres-kicker">Primera decisión</p>
+<h2 id="pres-paletas" class="pres-h pres-h2">Cuatro paletas, un solo logo</h2>
+<div class="pres-paletas"><a class="pres-paleta" href="/branding/p1/">
+<span class="pres-paleta-logo" style="background: #690B26"><img src="/branding-archivos/p1/isotipo-principal.svg" alt="" width="1384" height="1113" loading="lazy"></span>
+<span class="pres-barra"><span style="background: #690B26; flex: 50" title="Burdeos #690B26"></span><span style="background: #F4F0EB; flex: 30" title="Blanco hueso #F4F0EB"></span><span style="background: #C9A063; flex: 12" title="Oro champán #C9A063"></span><span style="background: #A50E1B; flex: 8" title="Terciopelo #A50E1B"></span></span>
+<span class="pres-paleta-txt"><span class="pres-num">Propuesta 1</span><span class="pres-nombre" style="color: #690B26">Burdeos y oro</span><span class="pres-idea">La retícula en burdeos y oro que mandó Karla: fondo burdeos, cajas blancas, oro champán y alfombra de terciopelo.</span><span class="pres-ver">Ver su manual →</span></span>
+</a>
+<a class="pres-paleta" href="/branding/p2/">
+<span class="pres-paleta-logo" style="background: #7A0306"><img src="/branding-archivos/p2/isotipo-principal.svg" alt="" width="1384" height="1113" loading="lazy"></span>
+<span class="pres-barra"><span style="background: #7A0306; flex: 50" title="Carmesí #7A0306"></span><span style="background: #EDE1D6; flex: 30" title="Mármol #EDE1D6"></span><span style="background: #C27639; flex: 12" title="Corteza dorada #C27639"></span><span style="background: #CFA593; flex: 8" title="Veta rosada #CFA593"></span></span>
+<span class="pres-paleta-txt"><span class="pres-num">Propuesta 2</span><span class="pres-nombre" style="color: #7A0306">Terciopelo y mármol</span><span class="pres-idea">El croissant sobre pedestal de mármol con terciopelo rojo: carmesí, mármol, corteza dorada y la veta rosada.</span><span class="pres-ver">Ver su manual →</span></span>
+</a>
+<a class="pres-paleta" href="/branding/p3/">
+<span class="pres-paleta-logo" style="background: #620901"><img src="/branding-archivos/p3/isotipo-principal.svg" alt="" width="1384" height="1113" loading="lazy"></span>
+<span class="pres-barra"><span style="background: #620901; flex: 50" title="Rojo óxido #620901"></span><span style="background: #EDE8DF; flex: 30" title="Hueso #EDE8DF"></span><span style="background: #D03A36; flex: 12" title="Jitomate #D03A36"></span><span style="background: #1C1A18; flex: 8" title="Negro foto #1C1A18"></span></span>
+<span class="pres-paleta-txt"><span class="pres-num">Propuesta 3</span><span class="pres-nombre" style="color: #620901">Rojo de mesa</span><span class="pres-idea">El Instagram en rojo que mandó Karla: rojo óxido de fondo, rojo jitomate, papel hueso y fotos en blanco y negro.</span><span class="pres-ver">Ver su manual →</span></span>
+</a>
+<a class="pres-paleta" href="/branding/p4/">
+<span class="pres-paleta-logo" style="background: #611016"><img src="/branding-archivos/p4/isotipo-principal.svg" alt="" width="1384" height="1113" loading="lazy"></span>
+<span class="pres-barra"><span style="background: #611016; flex: 50" title="Vino #611016"></span><span style="background: #D798A1; flex: 30" title="Rosa viejo #D798A1"></span><span style="background: #EDE4D1; flex: 12" title="Crema #EDE4D1"></span><span style="background: #EBC0C4; flex: 8" title="Rosa claro #EBC0C4"></span></span>
+<span class="pres-paleta-txt"><span class="pres-num">Propuesta 4</span><span class="pres-nombre" style="color: #611016">Rosa y vino</span><span class="pres-idea">La tarjeta de croissant que Karla pidió «sí o sí»: croissant vino sobre rosa viejo, vuelta crema y línea rosa.</span><span class="pres-ver">Ver su manual →</span></span>
+</a></div>
+</div>
+</section>
+<section class="pres-diapo pres-clara pres-alterna" aria-labelledby="pres-iconos">
+<div class="pres-ancha">
+<p class="pres-kicker">Segunda decisión</p>
+<h2 id="pres-iconos" class="pres-h pres-h2">Los íconos de sus cuatro panes</h2>
+<p class="pres-nota">Croissant, rol de canela, concha y pan de muerto, en tres familias. Aquí van en la paleta 4; toman los colores de la que elijan.</p>
+<div class="pres-familias"><figure class="pres-familia">
+<img src="/branding-archivos/p4/iconos/familia-A-claro.webp" alt="Familia A Hoy: croissant, rol de canela, concha y pan de muerto" width="1600" height="400" loading="lazy">
+<figcaption><span class="pres-letra">A</span><span><strong>«Hoy»</strong> Cuerpo sólido, trazo calado y orilla de troquel. Se lee desde 16 mm.</span></figcaption>
+</figure>
+<figure class="pres-familia">
+<img src="/branding-archivos/p4/iconos/familia-C-claro.webp" alt="Familia C Hoy en línea: croissant, rol de canela, concha y pan de muerto" width="1600" height="400" loading="lazy">
+<figcaption><span class="pres-letra">C</span><span><strong>«Hoy» en línea</strong> Solo el trazo de pincel, a una tinta. Para 20 mm en adelante.</span></figcaption>
+</figure>
+<figure class="pres-familia">
+<img src="/branding-archivos/p4/iconos/familia-D-claro.webp" alt="Familia D Hoy con mancha oro: croissant, rol de canela, concha y pan de muerto" width="1600" height="400" loading="lazy">
+<figcaption><span class="pres-letra">D</span><span><strong>«Hoy» con mancha oro</strong> El trazo sobre una mancha dorada, a dos tintas. Para 20 mm en adelante.</span></figcaption>
+</figure></div>
+</div>
+</section>
+<section class="pres-diapo pres-oscura" aria-labelledby="pres-fotos">
+<div class="pres-col">
+<p class="pres-kicker">Así se vería</p>
+<h2 id="pres-fotos" class="pres-h">Su pan, con la marca puesta</h2>
+<p class="pres-p">15 fotos hechas con IA a partir de sus fotos reales, con la paleta 4, Rosa y vino. Son para imaginarlo: se rehacen con la paleta que elijan.</p>
+</div>
+</section>
+<section class="pres-diapo pres-oscura pres-foto-diapo" aria-label="Foto 1 de 15">
+<figure class="pres-figura"><img class="pres-foto" src="/branding-archivos/presentacion/fotos/01.webp" alt="Bolsa kraft con asa de croissant y sus croissants en mesa de acero" width="1450" height="1800" loading="lazy" decoding="async">
+<figcaption><span class="pres-num">01 / 15</span><span>Bolsa kraft con asa de croissant y sus croissants en mesa de acero</span></figcaption>
+</figure>
+</section>
+<section class="pres-diapo pres-oscura pres-foto-diapo" aria-label="Foto 2 de 15">
+<figure class="pres-figura"><img class="pres-foto" src="/branding-archivos/presentacion/fotos/02.webp" alt="Caja vino abierta con su pan de muerto, sticker de cierre y sello de cera" width="1450" height="1800" loading="lazy" decoding="async">
+<figcaption><span class="pres-num">02 / 15</span><span>Caja vino abierta con su pan de muerto, sticker de cierre y sello de cera <span class="pres-aparte">Su caja de hoy es blanca: así se vería en vino.</span></span></figcaption>
+</figure>
+</section>
+<section class="pres-diapo pres-oscura pres-foto-diapo" aria-label="Foto 3 de 15">
+<figure class="pres-figura"><img class="pres-foto" src="/branding-archivos/presentacion/fotos/03.webp" alt="Tarjetas croissant (frente y vuelta con QR) frente a su vitrina con chocolatín" width="1800" height="1005" loading="lazy" decoding="async">
+<figcaption><span class="pres-num">03 / 15</span><span>Tarjetas croissant (frente y vuelta con QR) frente a su vitrina con chocolatín</span></figcaption>
+</figure>
+</section>
+<section class="pres-diapo pres-oscura pres-foto-diapo" aria-label="Foto 4 de 15">
+<figure class="pres-figura"><img class="pres-foto" src="/branding-archivos/presentacion/fotos/04.webp" alt="Jorge y Karla con mandil vino y el nombre bordado en oro" width="1344" height="1800" loading="lazy" decoding="async">
+<figcaption><span class="pres-num">04 / 15</span><span>Jorge y Karla con mandil vino y el nombre bordado en oro <span class="pres-aparte">Solo para ustedes: esta foto no se publica.</span></span></figcaption>
+</figure>
+</section>
+<section class="pres-diapo pres-oscura pres-foto-diapo" aria-label="Foto 5 de 15">
+<figure class="pres-figura"><img class="pres-foto" src="/branding-archivos/presentacion/fotos/05.webp" alt="Chocolatín y croissant en papel de patrón, con la etiqueta «Chocolatín»" width="1450" height="1800" loading="lazy" decoding="async">
+<figcaption><span class="pres-num">05 / 15</span><span>Chocolatín y croissant en papel de patrón, con la etiqueta «Chocolatín»</span></figcaption>
+</figure>
+</section>
+<section class="pres-diapo pres-oscura pres-foto-diapo" aria-label="Foto 6 de 15">
+<figure class="pres-figura"><div class="pres-falta" role="img" aria-label="Foto 06, en proceso"><span>Foto 06</span><span>En proceso</span></div>
+<figcaption><span class="pres-num">06 / 15</span></figcaption>
+</figure>
+</section>
+<section class="pres-diapo pres-oscura pres-foto-diapo" aria-label="Foto 7 de 15">
+<figure class="pres-figura"><div class="pres-falta" role="img" aria-label="Foto 07, en proceso"><span>Foto 07</span><span>En proceso</span></div>
+<figcaption><span class="pres-num">07 / 15</span></figcaption>
+</figure>
+</section>
+<section class="pres-diapo pres-oscura pres-foto-diapo" aria-label="Foto 8 de 15">
+<figure class="pres-figura"><div class="pres-falta" role="img" aria-label="Foto 08, en proceso"><span>Foto 08</span><span>En proceso</span></div>
+<figcaption><span class="pres-num">08 / 15</span></figcaption>
+</figure>
+</section>
+<section class="pres-diapo pres-oscura pres-foto-diapo" aria-label="Foto 9 de 15">
+<figure class="pres-figura"><div class="pres-falta" role="img" aria-label="Foto 09, en proceso"><span>Foto 09</span><span>En proceso</span></div>
+<figcaption><span class="pres-num">09 / 15</span></figcaption>
+</figure>
+</section>
+<section class="pres-diapo pres-oscura pres-foto-diapo" aria-label="Foto 10 de 15">
+<figure class="pres-figura"><div class="pres-falta" role="img" aria-label="Foto 10, en proceso"><span>Foto 10</span><span>En proceso</span></div>
+<figcaption><span class="pres-num">10 / 15</span></figcaption>
+</figure>
+</section>
+<section class="pres-diapo pres-oscura pres-foto-diapo" aria-label="Foto 11 de 15">
+<figure class="pres-figura"><div class="pres-falta" role="img" aria-label="Foto 11, en proceso"><span>Foto 11</span><span>En proceso</span></div>
+<figcaption><span class="pres-num">11 / 15</span></figcaption>
+</figure>
+</section>
+<section class="pres-diapo pres-oscura pres-foto-diapo" aria-label="Foto 12 de 15">
+<figure class="pres-figura"><div class="pres-falta" role="img" aria-label="Foto 12, en proceso"><span>Foto 12</span><span>En proceso</span></div>
+<figcaption><span class="pres-num">12 / 15</span></figcaption>
+</figure>
+</section>
+<section class="pres-diapo pres-oscura pres-foto-diapo" aria-label="Foto 13 de 15">
+<figure class="pres-figura"><div class="pres-falta" role="img" aria-label="Foto 13, en proceso"><span>Foto 13</span><span>En proceso</span></div>
+<figcaption><span class="pres-num">13 / 15</span></figcaption>
+</figure>
+</section>
+<section class="pres-diapo pres-oscura pres-foto-diapo" aria-label="Foto 14 de 15">
+<figure class="pres-figura"><div class="pres-falta" role="img" aria-label="Foto 14, en proceso"><span>Foto 14</span><span>En proceso</span></div>
+<figcaption><span class="pres-num">14 / 15</span></figcaption>
+</figure>
+</section>
+<section class="pres-diapo pres-oscura pres-foto-diapo" aria-label="Foto 15 de 15">
+<figure class="pres-figura"><div class="pres-falta" role="img" aria-label="Foto 15, en proceso"><span>Foto 15</span><span>En proceso</span></div>
+<figcaption><span class="pres-num">15 / 15</span></figcaption>
+</figure>
+</section>
+<section class="pres-diapo pres-clara" aria-labelledby="pres-sigue">
+<div class="pres-col">
+<p class="pres-kicker">Qué sigue</p>
+<h2 id="pres-sigue" class="pres-h">Dos decisiones</h2>
+<ol class="pres-pasos">
+<li><strong>La paleta:</strong> 1, 2, 3 o 4.</li>
+<li><strong>La familia de los panes:</strong> A, C o D.</li>
+</ol>
+<p class="pres-p">Con eso queda una sola marca, con su manual y sus archivos de imprenta.</p>
+<a class="pres-boton" href="/branding/">Ver las cuatro propuestas</a>
+</div>
+</section>
+</main>8:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[[["$","link",null,{"rel":"stylesheet","precedence":"default","href":"https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&display=swap"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$9"}}]],["$La"],"$Lb"]}],"p":false,"v":null}}]]
+7:[["children",{"s":"presentacion","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$6"},"c":"$Q8"}]]
+5:[["children",{"s":"branding","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$6"},"c":"$Q7"}]]
+0:{"P":null,"c":["","branding","presentacion",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1-p58d3iln4iv.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/3qfy96eoyh-ek.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"es-MX","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){var d=document.documentElement;try{var q=new URLSearchParams(location.search);if(!matchMedia('(prefers-reduced-motion: reduce)').matches&&!q.has('fijo'))d.classList.add('con-movimiento')}catch(e){}})();"}}]}],["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}],"p":false,"v":null},"c":"$Q5"},"h":{"r":["$","$1","h",{"children":[null,["$","$Ld",null,{"children":"$Le"}],["$","$L10",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":"$L12"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$13",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1-p58d3iln4iv.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"eZa06YcRMqTnoKVaB1baX"}
+14:I[97367,["$2"],"OutletBoundary"]
+6:C
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1g_1r6h50_i6k.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+b:["$","$L14",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#5C0B20"}]]
+16:I[27201,["$2"],"IconMark"]
+12:[["$","title","0",{"children":"Presentación de marca, Casa Dos Raíces"}],["$","meta","1",{"name":"description","content":"Propuesta de marca para Jorge y Karla."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow, noimageindex, nocache"}],["$","meta","3",{"name":"googlebot","content":"noindex, nofollow, noimageindex"}],["$","link","4",{"rel":"canonical","href":"https://casa-dosraices.com/branding/presentacion/"}],["$","meta","5",{"property":"og:title","content":"Casa Dos Raíces"}],["$","meta","6",{"property":"og:description","content":"Panificadora gourmet: croissant y pan de muerto para hoteles, cafeterías y tiendas, desde Tequisquiapan, Querétaro."}],["$","meta","7",{"property":"og:url","content":"https://casa-dosraices.com/"}],["$","meta","8",{"property":"og:site_name","content":"Casa Dos Raíces"}],["$","meta","9",{"property":"og:locale","content":"es_MX"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary"}],["$","meta","12",{"name":"twitter:title","content":"Casa Dos Raíces"}],["$","meta","13",{"name":"twitter:description","content":"Panificadora gourmet: croissant y pan de muerto para hoteles, cafeterías y tiendas, desde Tequisquiapan, Querétaro."}],["$","link","14",{"rel":"icon","href":"/icon.svg?icon.1kp28gykx59zf.svg","sizes":"any","type":"image/svg+xml"}],["$","$L16","15",{}]]
+15:null
